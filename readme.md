@@ -1,9 +1,5 @@
-Nama     : Fahri Muhammad <br>
-
-Nim      : 17051204029 <br>
-
-kelas    : 2017 A <br>
-
-Prodi    : S1 Teknik Informatika <br>
-
-Github   : https://github.com/fahrim27 <br>
+Nama Kelompok   : Arizka Lutfi Nuril Hidayati (17051204018)
+                  Setri Dwi Prasetiani (17051204014)
+                  M Ridho Wahyudi (170512040164)
+                  
+Kelas           : TI 2017 A
