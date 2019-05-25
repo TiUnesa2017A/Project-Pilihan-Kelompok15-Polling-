@@ -103,7 +103,7 @@ if(isset($_GET['results']))
 	<h2>Created by :</h2>
 	<h3>Arizka L Nuril		(17051204018)</h3>
 	<h3>Setri D Prasetiani	(17051204014)</h3>
-	<h3>M Ridho Wahyudi		(17051204054)</h3>
+	<h3>M Ridho Wahyudi		(17051204064)</h3>
 </div>
 
 </body>
